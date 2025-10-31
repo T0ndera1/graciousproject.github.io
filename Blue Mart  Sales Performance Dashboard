@@ -1,0 +1,71 @@
+# 🛒 Blue Mart E-Commerce Sales Performance Dashboard
+
+This project showcases an interactive **Power BI dashboard** designed to analyze and visualize **sales, profit, and performance** across multiple regions, products, and categories.
+
+---
+
+## 📊 **Overview**
+The goal of this dashboard is to provide key insights into:
+- Regional and category performance  
+- Profitability trends over time  
+- Online vs. offline sales channels  
+- High-performing and underperforming segments  
+
+---
+
+## 🧰 **Tools & Technologies**
+- **Power BI** – Data visualization and DAX calculations  
+- **SQL** – Data cleaning and transformations  
+- **Excel** – Data preparation and validation  
+- **DAX** – Key metrics and calculated measures  
+
+---
+
+## 📈 **Key Metrics**
+| Metric | Value |
+|---------|--------|
+| 💰 Total Revenue | **$54M** |
+| 💹 Profit Margin | **29%** |
+| 📦 Units Sold | **50K** |
+| 📊 Total Profit | **$16M** |
+
+---
+
+## 🧮 **Sample DAX Measures**
+```DAX
+Profit Margin = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Profit per Unit = DIVIDE([Total Profit], [Total Units Sold], 0)
+
+YoY Margin % =
+VAR PrevYear = CALCULATE([Profit Margin], DATEADD('Calendar'[Date], -1, YEAR))
+RETURN DIVIDE([Profit Margin] - PrevYear, PrevYear, 0)
+🖼️ Dashboard Preview
+Revenue Analysis	Profitability	Performance
+	
+
+🎯 Results & Insights
+Improved forecasting accuracy by 22%
+
+Identified $500K in recoverable revenue
+
+Automated manual reporting, saving 90% of reporting time
+
+Enhanced data storytelling for decision-makers
+
+🗂️ Project Structure
+kotlin
+Copy code
+.
+├── assets/
+│   ├── screenshots/
+│   └── model/
+├── data/
+│   └── Blue_Mart_Sales_Data_Vis.pbix
+├── demo/
+│   └── demo.gif
+└── README.md
+🌐 Live Demo
+👉 View my portfolio: https://graciousproject.github.io
+👉 View this repository: https://github.com/T0ndera1/Blue-Mart-E-commerce-Sales-Performance-Dashboard
+
