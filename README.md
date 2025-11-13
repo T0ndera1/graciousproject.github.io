@@ -1,33 +1,30 @@
-Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🏬 Global Superstore Power BI Dashboard  
 
+This project analyzes Global Superstore data to uncover insights on **sales performance**, **profitability**, and **shipping efficiency** across multiple categories, regions, and order priorities.  
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📊 Dashboard Preview  
+<p align="center">
+  <img src="https://github.com/T0ndera1/graciousproject.github.io/blob/main/images/Global_Superstore_Dashboard.png?raw=true" 
+       alt="Global Superstore Dashboard" width="90%">
+</p>
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+### 🔍 Key Insights  
+- Technology leads with **$4.7M in sales** and highest profit margin  
+- **Medium-priority orders** contribute over **60% of total revenue**  
+- Profit increased steadily from **$0.2M to $0.5M (2011–2014)**  
+- Standard Class shipments dominate with **59.9% of orders**
 
+---
 
-Credits:
+### 🛠️ Tools & Skills  
+Power BI · Power Query · DAX · Data Modeling · KPI Design · Data Visualization · ETL · Dashboard Automation  
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	---
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
-
-
+### 🔗 Links  
+- **Live Portfolio:** [https://t0ndera1.github.io/graciousproject.github.io/](https://t0ndera1.github.io/graciousproject.github.io/)  
+- **GitHub Repo:** [https://github.com/T0ndera1/gracio
