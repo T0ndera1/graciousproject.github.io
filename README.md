@@ -28,3 +28,4 @@ Power BI · Power Query · DAX · Data Modeling · KPI Design · Data Visualizat
 ### 🔗 Links  
 - **Live Portfolio:** [https://t0ndera1.github.io/graciousproject.github.io/](https://t0ndera1.github.io/graciousproject.github.io/)  
 - **GitHub Repo:** [https://github.com/T0ndera1/gracio
+
