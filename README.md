@@ -4,7 +4,7 @@ This project analyzes Global Superstore data to uncover insights on **sales perf
 
 ---
 
-## 📊 Dashboard Preview  
+
 <p align="center">
   <img src="images/Global_Superstore_Dashboard.png" alt="Global Superstore Dashboard" width="90%" />
 </p>
@@ -27,6 +27,7 @@ Power BI · Power Query · DAX · Data Modeling · KPI Design · Data Visualizat
 ### 🔗 Links  
 - **Live Portfolio:** [https://t0ndera1.github.io/graciousproject.github.io/](https://t0ndera1.github.io/graciousproject.github.io/)  
 - **GitHub Repo:** [https://github.com/T0ndera1/gracio
+
 
 
 
