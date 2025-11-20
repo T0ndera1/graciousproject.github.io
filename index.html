@@ -24,6 +24,24 @@
 }
 </head>		
 </style>
+	.spotlight .content p {
+    color: #ffffff !important;
+    font-size: 17px !important;
+    line-height: 1.5 !important;
+  }
+
+  /* Force 2 columns for project cards on desktop */
+  @media (min-width: 900px) {
+    .features {
+      display: grid !important;
+      grid-template-columns: repeat(2, minmax(360px, 1fr)) !important;
+      gap: 2rem !important;
+      align-items: start !important;
+    }
+    .features > article { margin: 0 !important; }
+  }
+</style>
+</head>	
 <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -265,6 +283,7 @@
 	</body>
 
 </html>
+
 
 
 
